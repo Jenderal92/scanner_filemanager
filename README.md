@@ -1,4 +1,4 @@
-# scanner-wp-file-manager
+# scanner filemanager
 
 python 2 .7
 
